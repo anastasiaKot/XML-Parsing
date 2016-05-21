@@ -1,0 +1,67 @@
+2016-05-21 11:55:28,019 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/pom.xml
+2016-05-21 11:55:28,663 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: XML_Parcer:core:1.1 @ /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/pom.xml.
+2016-05-21 11:55:28,839 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2016-05-21 11:55:28,841 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2016-05-21 11:55:29,329 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-05-21 11:55:30,017 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 11:55:30,017 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 11:55:30,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 11:55:30,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 11:59:51,032 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 11:59:51,032 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 11:59:51,034 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 11:59:51,034 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 11:59:52,054 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 11:59:52,054 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 11:59:52,055 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 11:59:52,055 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:00:39,234 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2016-05-21 12:00:48,862 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:00:48,862 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:00:48,863 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:00:48,863 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:03:17,090 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:03:17,091 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:03:17,091 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:03:17,091 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:03:40,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:03:40,854 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:03:40,855 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:03:40,855 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:03:56,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:03:56,266 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:03:56,267 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:03:56,267 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:04:13,508 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:04:13,509 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:04:13,510 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:04:13,510 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:04:36,005 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:04:36,005 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:04:36,006 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:04:36,006 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:05:02,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:05:02,461 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:05:02,462 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:05:02,462 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:05:19,399 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:05:19,399 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:05:19,400 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:05:19,400 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:07:32,156 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:07:32,156 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:07:32,157 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:07:32,157 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:17:49,269 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:17:49,269 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:17:49,270 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:17:49,270 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:18:06,214 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:18:06,216 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:18:06,217 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:18:06,217 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:20:39,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:20:39,900 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/main/resources
+2016-05-21 12:20:39,901 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-05-21 12:20:39,901 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/anastasia/Documents/Java_projects/XML Parser HW45/core/src/test/resources
+2016-05-21 12:20:40,832 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
